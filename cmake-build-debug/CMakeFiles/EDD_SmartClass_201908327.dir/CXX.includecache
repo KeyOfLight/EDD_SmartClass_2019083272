@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/diego/CLionProjects/EDD_SmartClass_201908327/Menu.cpp
+iostream
+-
+Menu.h
+C:/Users/diego/CLionProjects/EDD_SmartClass_201908327/Menu.h
+
+C:/Users/diego/CLionProjects/EDD_SmartClass_201908327/Menu.h
+iostream
+-
+string
+-
+
+C:/Users/diego/CLionProjects/EDD_SmartClass_201908327/main.cpp
+iostream
+-
+string
+C:/Users/diego/CLionProjects/EDD_SmartClass_201908327/string
+Menu.h
+C:/Users/diego/CLionProjects/EDD_SmartClass_201908327/Menu.h
+
